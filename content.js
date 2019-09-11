@@ -168,5 +168,3 @@ $(document).on("mouseenter", "div.bob-container", function() {
 $("div.title-card-container").on("mouseleave", "div.bob-container", function() {
   // clean-up
 });
-
-//<a href="https://www.freepik.com/free-photos-vectors/design">Design vector created by macrovector_official - www.freepik.com</a>
